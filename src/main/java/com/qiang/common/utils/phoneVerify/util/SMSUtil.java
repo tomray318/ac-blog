@@ -1,4 +1,4 @@
-﻿package com.qiang.common.utils.phoneVerify.util;
+package com.qiang.common.utils.phoneVerify.util;
 
 /**
  * @Author: qiang
@@ -23,6 +23,6 @@ public class SMSUtil {
     public static final Integer UPDPWDID = 3885707;
 
     //短信签名
-    public static final String NOTESIGN = "强子博客";
+    public static final String NOTESIGN = "源码下载";
 
 }
